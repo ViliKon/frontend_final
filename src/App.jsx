@@ -11,6 +11,8 @@ function App() {
         <Link to={"/Customerlist"}> Customers </Link>
 
         <Link to={"/Traininglist"}> Trainings </Link>
+
+        <Link to={"/Statistics"}>Statistics</Link>
       </nav>
       <Outlet />
     </div>
